@@ -1,0 +1,65 @@
+/* Type your code here */
+
+div>.logo{
+	position:relative; 
+float: right;
+    margin: 10px 10px 10px 10px;
+}
+#main{
+	background-image: url("assets/background-image1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.pl{
+color: rgb(8, 124, 124);
+}
+#wc{
+	text-shadow: 1px 1px;
+	font-family:'Times New Roman', Times, serif;
+}
+#sc{
+	color: rgb(104, 102, 102);
+	
+}
+td,th{
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 20px;
+
+}
+.tde{
+	text-align: left;
+}
+
+#main{
+	margin: 20px;
+}
+#column{
+	color: black;
+}
+#box{
+	margin: 20px;
+	padding: 50px;
+}
+
+#heading{
+		background-color: brown;
+		padding: 10px 20px;
+	}
+
+
+
+/* change the font family and spacing as per your project font */
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-content:flex-start;
+	position: relative;
+	top: 50px;
+	margin-left: 10px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style: normal;
+    
+}
